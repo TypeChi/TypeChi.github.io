@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://typechi.github.io/posts/</loc>
+    <loc>http://typechi.blog/posts/</loc>
     <lastmod>2020-09-19T19:08:05+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://typechi.github.io/</loc>
+    <loc>http://typechi.blog/</loc>
     <lastmod>2020-09-19T19:08:05+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://typechi.github.io/posts/my-first-post/</loc>
+    <loc>http://typechi.blog/posts/my-first-post/</loc>
     <lastmod>2020-09-19T19:08:05+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://typechi.github.io/categories/</loc>
+    <loc>http://typechi.blog/categories/</loc>
   </url>
   
   <url>
-    <loc>http://typechi.github.io/tags/</loc>
+    <loc>http://typechi.blog/tags/</loc>
   </url>
   
 </urlset>
