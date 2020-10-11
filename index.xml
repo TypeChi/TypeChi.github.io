@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TypeChi</title>
-    <link>http://typechi.blog/</link>
+    <link>https://typechi.blog/</link>
     <description>Recent content on TypeChi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Sep 2020 19:08:05 +1000</lastBuildDate>
     
-	<atom:link href="http://typechi.blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://typechi.blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>http://typechi.blog/posts/my-first-post/</link>
+      <link>https://typechi.blog/posts/my-first-post/</link>
       <pubDate>Sat, 19 Sep 2020 19:08:05 +1000</pubDate>
       
-      <guid>http://typechi.blog/posts/my-first-post/</guid>
+      <guid>https://typechi.blog/posts/my-first-post/</guid>
       <description>Welcome to TypeChi. Sorry, but there is no content just yet.</description>
     </item>
     
